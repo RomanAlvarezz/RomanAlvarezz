@@ -1,5 +1,5 @@
-# <p align="center">Hola 👋 mi nombre es Román y soy de Argentina, Rosario<img src="./assets/argentina-flag.svg" style=" height: 25px;">⭐⭐⭐</p>
-</p>
+# <p align="center">Hola 👋 mi nombre es Román y soy de Argentina, Rosario </p>
+## <p align="center"><img src="./assets/argentina-flag.svg" style=" height: 25px;">⭐⭐⭐</p>
 
 ## <p align="center">Soy estudiante de sistemas, apasionado por escribir código, resolver problemas, automatizar cosas y crear software.</p>
 
